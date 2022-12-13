@@ -1,4 +1,4 @@
-### Hi there 👋
+### Java is to JavaScript what Car is to Carpet
 
 <!--
 **Paradigm-Web/Paradigm-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
